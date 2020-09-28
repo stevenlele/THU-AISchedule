@@ -41,11 +41,11 @@ MIUI 系统自带，具有课程提醒和上课静音的功能，并且支持负
 
 ## 其他推荐
 
-- [THUInfo](/UNIDY2002/THUInfo)——包含时间表功能（[下载](/THUInfo/THUInfo)）
-- [清华课程小助手](/Starrah/THUCourseHelper)——时间表（[下载](/Starrah/THUCourseHelper/blob/master/README.md)）
-- [learnX](/robertying/learnX)——手机版网络学堂，可以将时间表导入日历（[下载](https://learnx.robertying.io/)）
-- [Learn Helper](/xxr3376/Learn-Project)——网络学堂的浏览器插件（可在 Edge/Firefox 扩展商店下载）
-- [thu-learn-lib](Harry-Chen/thu-learn-lib)——供开发者使用的网络学堂 JS 库
+- [THUInfo](https://github.com/UNIDY2002/THUInfo)——包含时间表功能（[下载](https://github.com/THUInfo/THUInfo)）
+- [清华课程小助手](https://github.com/Starrah/THUCourseHelper)——时间表（[下载](https://github.com/Starrah/THUCourseHelper/blob/master/README.md)）
+- [learnX](https://github.com/robertying/learnX)——手机版网络学堂，可以将时间表导入日历（[下载](https://learnx.robertying.io/)）
+- [Learn Helper](https://github.com/xxr3376/Learn-Project)——网络学堂的浏览器插件（可在 Edge/Firefox 扩展商店下载）
+- [thu-learn-lib](https://github.com/Harry-Chen/thu-learn-lib)——供开发者使用的网络学堂 JS 库
 
 ## 更新历史
 
